@@ -436,7 +436,7 @@ public with sharing class FlowControlLoopsCollections {
             Integer salary = employeeSalaries.get(name);
             if(salary > paid) {
                     highPaidEmployees.add(name);
-            } 
+            }  
         }
             // Check if the salary of the employee is more than 55000
                 // Add the employee to the list of high paid employees
